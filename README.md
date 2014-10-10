@@ -1,4 +1,4 @@
 gofsim-app
 ==========
 
-Basic game of life simulation
+Basic game of life simulation application.
